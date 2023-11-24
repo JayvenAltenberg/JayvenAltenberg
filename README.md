@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JayvenAltenberg
-- 
+  
 - 👀 I’m interested in Gaming / sports
 - 🌱 I’m currently learning How to make websites
 - 📫 How to reach me: jayvenaltenberg@gmail.com
