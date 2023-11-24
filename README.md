@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JayvenAltenberg
+- **👋 Hi, I’m JayvenAltenberg**
   
 - 👀 I’m interested in Gaming / sports
 - 🌱 I’m currently learning How to make websites
