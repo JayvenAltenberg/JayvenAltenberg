@@ -1,12 +1,12 @@
-[![MasterHead](cat.gif)]
+<div align="center">
+    <a href="https://github.com/JayvenAltenberg">
+        <img src="cat_banner.gif" alt="MasterHead" style="width: 100%; height: auto; object-fit: cover;">
+    </a>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Jayven</h1>
 <h3 align="center">A Backend devloper and student</h3>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="cat.gif" alt="Cat in Rain" style="max-width: 10%; height: auto;">
-</div>
 
 
 
