@@ -2,7 +2,7 @@
 <h3 align="center">A Backend devloper and student</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://media.tenor.com/cKHb1dXlv8UAAAAM/cat-rain.gif" alt="Cat in Rain" style="max-width: 100%; height: auto;">
+    <img src="cat.gif" alt="Cat in Rain" style="max-width: 10%; height: auto;">
 </div>
 
 
